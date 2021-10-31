@@ -1,0 +1,19 @@
+{
+  "name": "js_arr",
+  "version": "1.0.0",
+  "description": "Ссылка для задания B4.5.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeybaburin/js_arr.git"
+  },
+  "author": "baburinsy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergeybaburin/js_arr/issues"
+  },
+  "homepage": "https://github.com/sergeybaburin/js_arr#readme"
+}
